@@ -1,0 +1,14 @@
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\bin\Debug\MyClassesTest.dll
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\bin\Debug\MyClassesTest.pdb
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\obj\Debug\MyClassesTest.csprojAssemblyReference.cache
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\obj\Debug\MyClassesTest.csproj.CoreCompileInputs.cache
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\obj\Debug\MyClassesTest.csproj.CopyComplete
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\obj\Debug\MyClassesTest.dll
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\obj\Debug\MyClassesTest.pdb

@@ -1,0 +1,9 @@
+C:\Users\Aina\Documents\unitTest-exercises\MyClasses\bin\Debug\netstandard2.0\MyClasses.deps.json
+C:\Users\Aina\Documents\unitTest-exercises\MyClasses\bin\Debug\netstandard2.0\MyClasses.dll
+C:\Users\Aina\Documents\unitTest-exercises\MyClasses\bin\Debug\netstandard2.0\MyClasses.pdb
+C:\Users\Aina\Documents\unitTest-exercises\MyClasses\obj\Debug\netstandard2.0\MyClasses.csprojAssemblyReference.cache
+C:\Users\Aina\Documents\unitTest-exercises\MyClasses\obj\Debug\netstandard2.0\MyClasses.csproj.CoreCompileInputs.cache
+C:\Users\Aina\Documents\unitTest-exercises\MyClasses\obj\Debug\netstandard2.0\MyClasses.AssemblyInfoInputs.cache
+C:\Users\Aina\Documents\unitTest-exercises\MyClasses\obj\Debug\netstandard2.0\MyClasses.AssemblyInfo.cs
+C:\Users\Aina\Documents\unitTest-exercises\MyClasses\obj\Debug\netstandard2.0\MyClasses.dll
+C:\Users\Aina\Documents\unitTest-exercises\MyClasses\obj\Debug\netstandard2.0\MyClasses.pdb
