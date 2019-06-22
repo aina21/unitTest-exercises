@@ -30,9 +30,27 @@ namespace MyClassesTest
         }
 
         [TestMethod]
+        [ExpectedException(typeof(ArgumentNullException))]
         public void FileNameNullOrEmpty_ThrowsArgumentNullException()
         {
-            Assert.Inconclusive();
+            FileProcess fp = new FileProcess();
+
+            fp.FileExists("");
+        }
+
+        [TestMethod]
+        public void FileNameNullOrEmpty_ThrowsArgumentNullException_UsingTryCatch()
+        {
+            FileProcess fp = new FileProcess();
+            try{
+                fp.FileExists("");
+            }
+            catch (ArgumentNullException) {
+                //The test was a success
+                return ;
+            }
+
+            Assert.Fail("Call to FileExists did Not throw an ArgumentNullExpection.");
         }
     }
 }
