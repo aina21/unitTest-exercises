@@ -12,3 +12,5 @@ C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\obj\Debug\MyClassesTest
 C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\obj\Debug\MyClassesTest.csproj.CopyComplete
 C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\obj\Debug\MyClassesTest.dll
 C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\obj\Debug\MyClassesTest.pdb
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\bin\Debug\MyClasses.dll
+C:\Users\Aina\Documents\unitTest-exercises\MyClassesTest\bin\Debug\MyClasses.pdb
